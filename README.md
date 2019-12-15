@@ -1,2 +1,3 @@
 # Devops-training
-This repo is for my learning and tests
+This repo is for my learning and tests.
+Good Luck!
